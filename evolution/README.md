@@ -29,7 +29,7 @@ Enter your Lavabit email address in the `Email Address` field.
 Click `Next` and on the `Receiving Email` step choose between POP3 and IMAP for incoming mail. Then choose either
 STARTTLS or SSL (both offer the same security), and let Evolution select the default port for you.
 
-# Step FourA
+# Step Four
 
 ![Step Four](https://github.com/lavabit/tutorials/blob/master/evolution/step4.png "Step Four")
 
