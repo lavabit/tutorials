@@ -1,0 +1,11 @@
+
+# Example Lavabit Mutt config file.
+
+set folder 		= imaps://imap.lavabit.com:993	# Choose either POP or IMAP.
+set imap_user 		= example			# The first part of your Lavabit email address. (i.e. "example" in "example@lavabit.com")
+set spoolfile 		= +INBOX
+set postponed		= +Drafts
+set record		= +Sent
+mailboxes		= +INBOX
+set smtp_url		= smtp://smtp.lavabit.com:587
+set smtp_pass		= "..."				#<your Lavabit password>
