@@ -43,7 +43,7 @@ In the `Name` field, enter the name you would like to have displayed to your rec
 name but you are free to enter anything you wish such as your company name or a short description of the
 account if it serves a special purpose.
 
-Finally, tap `Done`. After Evolution syncs with the mail server, you should see a message from the Lavabit Support Team in =
+Finally, tap `Done`. After Evolution syncs with the mail server, you should see a message from the Lavabit Support Team in
 your Inbox. You can also try sending an e-mail to make sure your outgoing mail works as well.
 
 For most users, this is the happy ending to the story. If you hit a snag, please email us at support@lavabit.com
