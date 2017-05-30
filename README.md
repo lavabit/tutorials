@@ -8,13 +8,13 @@ on a number of different email clients:
 - [Gmail (Mobile)](gmail/README.md)
 - [K-9 Mail](k9/README.md)
 - [KMail](kmail/README.md)
-- [Windows 10 Mail](win10mail/README.md)
 - [Mailbird](mailbird/README.md)
 - [Mailpile](mailpile/README.md)
 - [Mutt](mutt/)
 - [Sylpheed](sylpheed/README.md)
 - [The Bat!](thebat/README.md)
 - [Thunderbird](thunderbird/README.md)
+- [Windows 10 Mail](win10mail/README.md)
 
 Tutorials coming soon:
 

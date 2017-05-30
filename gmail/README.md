@@ -2,7 +2,6 @@
 # Gmail (Mobile) Tutorial
 
 This short tutorial will show you how to configure the Gmail App for use with Lavabit.
-If you continue having difficulty after following this tutorial please email us at support@lavabit.com.
 
 # Step One
 

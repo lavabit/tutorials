@@ -2,7 +2,6 @@
 # Evolution Tutorial
 
 This short tutorial will show you how to configure Evolution for use with Lavabit.
-If you continue having difficulty after following this tutorial please email us at support@lavabit.com.
 
 # Step One
 
