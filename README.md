@@ -16,7 +16,7 @@ on a number of different email clients:
 - [Thunderbird](thunderbird/README.md)
 - [Windows 10 Mail](win10mail/README.md)
 - [iOS](IOS/README.md)
-- [MacOS](IOS/README.md)
+- [MacOS](MacOS/README.md)
 
 Tutorials coming soon:
 
