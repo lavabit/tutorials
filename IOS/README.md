@@ -5,27 +5,27 @@ If you continue having difficulty after following this tutorial please email sup
 
 # Step One
 
-![Step One](http://i.imgur.com/SM16Pzy.png)
+![Step One](https://github.com/DiFronzo/tutorials/blob/master/iOS/Screen1.png)
 
 To add a new account to your IOS device, click `Settings` > `Mail`.
 
-![Step One.One](http://i.imgur.com/7WTfcM9.png "Step One.One")
+![Step One.One](https://github.com/DiFronzo/tutorials/blob/master/iOS/Screen2.png "Step One.One")
 
 # Step Two
 
-![Step Two](http://i.imgur.com/uWmaSnP.png "Step Two")
+![Step Two](https://github.com/DiFronzo/tutorials/blob/master/iOS/Screen3.png "Step Two")
 
 Next, select the `Accounts` > `Add Account`
 
 # Step Three
 
-![Step Three](http://i.imgur.com/QdPfegd.png "Step Three")
+![Step Three](https://github.com/DiFronzo/tutorials/blob/master/iOS/Screen4.png "Step Three")
 
 Almost there, select `Other` > `Add Mail Account`
 
 # Step Four
 
-![Step Four](http://i.imgur.com/JNqgjM7.png "Step Four")
+![Step Four](https://github.com/DiFronzo/tutorials/blob/master/iOS/Screen5.png "Step Four")
 
 Fill out the information. In the `Name` field, enter the name you would like to have displayed
 to your recipients. You will most likely use your full name but you are free to enter anything you wish such as your
@@ -37,7 +37,7 @@ At the `Description`field choose a name for your mailbox, who will be visible in
 
 # Step Five
 
-![Step Five](http://i.imgur.com/LfqN0P6.png "Step Five")
+![Step Five](https://github.com/DiFronzo/tutorials/blob/master/iOS/Screen6.png "Step Five")
 
 Next is the IMAP account information. Here you will need to fill in the empty fields.
 
