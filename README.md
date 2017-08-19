@@ -15,7 +15,10 @@ on a number of different email clients:
 - [The Bat!](thebat/README.md)
 - [Thunderbird](thunderbird/README.md)
 - [Windows 10 Mail](win10mail/README.md)
+- [iOS](iOS/README.md)
+- [MacOS](MacOS/README.md)
+- [Newton](Newton/MacOS/README.md)
 
 Tutorials coming soon:
 
-- Apple Mail (macOS and iOS)
+- Outlook Windows/Mac
