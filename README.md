@@ -17,6 +17,7 @@ on a number of different email clients:
 - [Windows 10 Mail](win10mail/README.md)
 - [iOS](IOS/README.md)
 - [MacOS](MacOS/README.md)
+- [Newton](Newton/MacOS/README.md)
 
 Tutorials coming soon:
 
