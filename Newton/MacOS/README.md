@@ -15,7 +15,7 @@ To add a new account to Newton, click `IMAP`.
 
 ![Step Two](https://github.com/DiFronzo/tutorials/blob/master/Newton/MacOS/Screen2.png "Step Two")
 
-Fill out the information. In the `Name` field, enter the name you would like to have displayed
+Fill out the information. In the `Your Name` field, enter the name you would like to have displayed
 to your recipients. You will most likely use your full name but you are free to enter anything you wish such as your
 company name or a short description of the account if it serves a special purpose.
 
