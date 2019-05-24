@@ -15,7 +15,5 @@ on a number of different email clients:
 - [The Bat!](thebat/README.md)
 - [Thunderbird](thunderbird/README.md)
 - [Windows 10 Mail](win10mail/README.md)
-
-Tutorials coming soon:
-
-- Apple Mail (macOS and iOS)
+- [Apple Mail macOS](macos/README.md)
+- [Apple Mail iPhone](iphone/README.md)
