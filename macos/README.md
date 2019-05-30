@@ -20,7 +20,7 @@ Enter the name you would like to have displayed to your recipients. Enter your L
 
 ![Step Three](https://github.com/lavabit/tutorials/blob/master/macos/step3.png "Step Three")
 
-Under the Incoming Mail Server add either the IMAP or POP server. Under Outgoing Mail Server add the SMTP server. Leave User Name empty. Click Sign In.
+A message "Unable to verify account name or password" and additional fields appears. Under the Incoming Mail Server add either the IMAP or POP server. Under Outgoing Mail Server add the SMTP server. Leave User Name empty. Click Sign In.
 
 # Step Four
 
