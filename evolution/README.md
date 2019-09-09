@@ -1,23 +1,23 @@
 
 # Evolution Tutorial
 
-This short tutorial will show you how to configure Evolution for use with Lavabit.
+This short tutorial shows you how to configure Evolution for use with Lavabit.
 
 # Step One
 
 ![Step One](https://github.com/lavabit/tutorials/blob/master/evolution/step1.png "Step One")
 
 To add a new account to an existing Evolution installation, select the `File` > `New` > `Mail Account` option.
-If you’re starting Evolution for the first time, it will automatically display the new account setup prompt.
+Evolution prompts you to add a new mail account upon the first successful launch of the application.
 
 # Step Two
 
 ![Step Two](https://github.com/lavabit/tutorials/blob/master/evolution/step2.png "Step Two")
 
 Click `Next` through the `Welcome` and `Restore From Backup` steps to the `Identity` step. In the `Full Name`
-field, enter the name you would like to have displayed to your recipients. You will most likely use your full
-name but you are free to enter anything you wish such as your company name or a short description of the
-account if it serves a special purpose.
+Field, enter the name you would like to have displayed to your recipients. You will most likely use your full
+name, but you are free to enter anything you wish, such as your company name or a short description of the
+account if it serves a particular purpose.
 
 Enter your Lavabit email address in the `Email Address` field.
 
@@ -48,7 +48,7 @@ Click `Next` and enter your Lavabit email address into the `Name` field. Finally
 ![Step Six](https://github.com/lavabit/tutorials/blob/master/evolution/step6.png "Step Six")
 
 After Evolution syncs with the mail server, you should see a message from the Lavabit Support Team in your Inbox.
-You can also try sending an e-mail to make sure your outgoing mail works as well.
+You can also try sending an email to make sure your outgoing mail works as well.
 
-For most users, this is the happy ending to the story. If you hit a snag, please email us at `support@lavabit.com`.
+For most users, this is a happy ending to the story. If you hit a snag, please email us at `support@lavabit.com`.
 
